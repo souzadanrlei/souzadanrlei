@@ -17,7 +17,7 @@
 ### 👤 Sobre mim
 
 - 🔍 Especialista em observabilidade e desenvolvimento de soluções internas  
-- 📘 Cursando Ciência da Computação (EAD)  
+- 📘 Cursando Ciência da Computação
 - 💬 Pronomes: ele/dele  
 - ⚙️ Entusiasta de musculação e fã de astronomia  
 
